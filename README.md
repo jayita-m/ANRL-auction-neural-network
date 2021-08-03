@@ -1,2 +1,5 @@
 # ANRL-auction-neural-network
-Google Colab Link: https://colab.research.google.com/drive/1SODont-6r1SaJ4pv72824Tdq8uFM3j7o?usp=sharing
+Google Colab Link: https://colab.research.google.com/drive/1SODont-6r1SaJ4pv72824Tdq8uFM3j7o?usp=sharing  
+Accuracy: 83.334  
+Input size: 40 bids  
+
