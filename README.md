@@ -1,2 +1,2 @@
 # ANRL-auction-neural-network
-FFN for ANRL Summer'21
+Google Colab Link: https://colab.research.google.com/drive/1SODont-6r1SaJ4pv72824Tdq8uFM3j7o?usp=sharing
